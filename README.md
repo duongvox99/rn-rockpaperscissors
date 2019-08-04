@@ -25,5 +25,5 @@ Completed all Accomplishments and Rockets features.
 **Demo:**
 
 <p align="center"> 
-<img src="./demo_rn-rockpaperscissors.gif">
+<img src="/demo_rn-rockpaperscissors.gif">
 </p>
