@@ -24,10 +24,6 @@ Completed all Accomplishments and Rockets features.
 
 **Demo:**
 
-
-->![Demo rn-rockpaperscissors](demo_rn-rockpaperscissors.gif)<-
-
-
 <p align="center"> 
 <img src="./demo_rn-rockpaperscissors.gif">
 </p>
