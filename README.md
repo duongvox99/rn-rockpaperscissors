@@ -23,4 +23,12 @@ Completed all Accomplishments and Rockets features.
 **Total time:** 4 hours
 
 **Demo:**
+
+
 ![Demo rn-rockpaperscissors](demo_rn-rockpaperscissors.gif)
+
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
