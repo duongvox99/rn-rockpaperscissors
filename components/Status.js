@@ -16,7 +16,7 @@ const getResultColor = (result) => {
     if (result === 'Victory!') return styles.textWin;
     if (result === 'Defeat!') return styles.textLose;
     return styles.textTie;
-  };
+};
 
 const styles = StyleSheet.create({
     status: {
@@ -27,17 +27,17 @@ const styles = StyleSheet.create({
     textWin: {
         fontSize: 30 * SCALE,
         fontWeight: '700',
-        color: 'green' 
+        color: 'green'
     },
     textLose: {
         fontSize: 30 * SCALE,
         fontWeight: '700',
-        color: 'red' 
+        color: 'red'
     },
     textTie: {
         fontSize: 30 * SCALE,
         fontWeight: '700',
-        color: 'blue' 
+        color: 'blue'
     },
 });
 
