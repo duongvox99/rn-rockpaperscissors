@@ -56,9 +56,9 @@ export default function App() {
       </View>
 
       <View style={styles.cardArea}>
-        <Card type={'Player'} choice={playerChoice} />
+        <Card typePlayer={'You'} choice={playerChoice} />
         <Text style={styles.textVs}>vs</Text>
-        <Card type={'Computer'} choice={computerChoice} />
+        <Card typePlayer={'Computer'} choice={computerChoice} />
       </View>
 
       <View style={styles.buttonArea}>
