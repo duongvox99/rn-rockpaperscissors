@@ -32,3 +32,8 @@ img[src$="centerme"] {
   display:block;
   margin: 0 auto;
 }
+
+
+<p align="center"> 
+<img src="./demo_rn-rockpaperscissors.gif">
+</p>
